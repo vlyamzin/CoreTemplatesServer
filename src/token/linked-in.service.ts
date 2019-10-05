@@ -99,10 +99,13 @@ export class LinkedInService {
     }
 
     private imageToBase64(url): Observable<string> {
-        return this.http.get(url)
+        return this.http.get(url, {
+            responseType: 'arraybuffer',
+        })
             .pipe(
                 map(res => {
-                    return new Buffer(res.data).toString('base64');
+                    return Buffer.from(res.data, 'binary').toString('base64');
+                    // return res.data.toString('base64');
                 }),
             );
     }
