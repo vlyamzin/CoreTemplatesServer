@@ -1,15 +1,15 @@
 import { Test, TestingModule } from '@nestjs/testing';
-import { TokenController } from './token.controller';
+import { LinkedInController } from './linked-in.controller';
 
 describe('Token Controller', () => {
-  let controller: TokenController;
+  let controller: LinkedInController;
 
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
-      controllers: [TokenController],
+      controllers: [LinkedInController],
     }).compile();
 
-    controller = module.get<TokenController>(TokenController);
+    controller = module.get<LinkedInController>(LinkedInController);
   });
 
   it('should be defined', () => {

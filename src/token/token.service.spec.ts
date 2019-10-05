@@ -1,15 +1,15 @@
 import { Test, TestingModule } from '@nestjs/testing';
-import { TokenService } from './token.service';
+import { LinkedInService } from './linked-in.service';
 
 describe('TokenService', () => {
-  let service: TokenService;
+  let service: LinkedInService;
 
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
-      providers: [TokenService],
+      providers: [LinkedInService],
     }).compile();
 
-    service = module.get<TokenService>(TokenService);
+    service = module.get<LinkedInService>(LinkedInService);
   });
 
   it('should be defined', () => {
