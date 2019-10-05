@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Vlad",
+      "lastname": "Lyamzin",
+      "technologies": [
+        ["HTML", "CSS", "LESS", "SASS", "Bootstrap", "SVG", "Canvas"],
+        ["JavaScript", "Typescript", "Angular", "jQuery", "Backbone.js", "Angular.js", "Node.js"],
+        ["Office.js", "jQuery UI", "Underscore.js", "Lodash.js", "Angular-UI", "Angular Material", "Express", "Nest.js"],
+        ["NPM", "Gulp", "Grunt", "Require.js", "Jasmine", "Karma", "Git", "SVN", "TFS", "BDD", "Scrum"],
+        ["RESTful", "AJAX", "JSON", "XML", "MongoDB", "MySQL"],
+        ["Photoshop", "Figma", "InVision", "JIRA", "Confluence", "BitBucket", "GitHub"]
+      ],
+      "certifications": [
+        "Microsoft Certification Exam 70-480: Programming in HTML5 with JavaScript and CSS3"
+      ],
+      "experience": [
+        "Strong experience in Front-end Software development using common stack of technologies: HTML5, CSS3, JavaScript, Typescript",
+        "Strong experience with JavaScript MV* frameworks such as jQuery, Backbone.js, Angular.js, Angular, etc",
+        "Strong skills in unit testing using BDD methodology",
+        "Good background in Object Oriented Programming, MVC pattern",
+        "Solid experience in prototyping and architecting solutions for the web applications from mid to high level of complexity",
+        "Deep knowledge in developing mobile application and websites, using HTML/CSS/JS stack",
+        "Solid skills in developing MS Office add-ins based on Office.js library",
+        "Strong experience of writing scripts for CI/CD based on Node.js, Grunt.js/Gulp.js",
+        "Strong skills in Photoshop and another graphic editor software",
+        "Some experience in prototyping UI/UX for the mobile and web applications",
+        "Basic knowledge in creation API services based on Node.js",
+        "Mentoring a group of junior engineers",
+        "1.5 year of leading the team of 10 people"
+      ]
+    },
+    {
+      "id": 2,
+      "firstname": "Vladyslav",
+      "lastname": "Havryliuk",
+      "technologies": [],
+      "certifications": [],
+      "experience": []
+    },
+    {
+      "id": 3,
+      "firstname": "Vladyslav",
+      "lastname": "Litovka",
+      "technologies": [],
+      "certifications": [],
+      "experience": []
+    },
+    {
+      "id": 4,
+      "firstname": "Vladlen",
+      "lastname": "Onopko",
+      "technologies": [],
+      "certifications": [],
+      "experience": []
+    },
+    {
+      "id": 5,
+      "firstname": "Oleksandr",
+      "lastname": "Vlasenko",
+      "technologies": [],
+      "certifications": [],
+      "experience": []
+    },
+    {
+      "id": 6,
+      "firstname": "Anastasiia",
+      "lastname": "Vlasova",
+      "technologies": [],
+      "certifications": [],
+      "experience": []
+    }
+  ]
+}

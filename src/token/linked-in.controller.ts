@@ -3,7 +3,7 @@ import {LinkedInService} from './linked-in.service';
 import {Observable, of} from 'rxjs';
 import {ILiProfile} from '../dto/li-profile.dto';
 
-export interface ILITokenQuery {
+interface ILITokenQuery {
     code: string;
     state: string;
     redirectUri: string;
