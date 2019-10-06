@@ -8,4 +8,6 @@ export interface UsersDto extends UsersLookupPart {
     technologies: [string[]];
     certifications: string[];
     experience: string[];
+    email: string;
+    skype: string;
 }

@@ -4,6 +4,8 @@
       "id": 1,
       "firstname": "Vlad",
       "lastname": "Lyamzin",
+      "email": "vlyamzin@corevalue.net",
+      "skype": "devy201",
       "technologies": [
         ["HTML", "CSS", "LESS", "SASS", "Bootstrap", "SVG", "Canvas"],
         ["JavaScript", "Typescript", "Angular", "jQuery", "Backbone.js", "Angular.js", "Node.js"],
@@ -35,6 +37,8 @@
       "id": 2,
       "firstname": "Vladyslav",
       "lastname": "Havryliuk",
+      "email": "vhavryliuk@corevalue.net",
+      "skype": "",
       "technologies": [],
       "certifications": [],
       "experience": []
@@ -43,6 +47,8 @@
       "id": 3,
       "firstname": "Vladyslav",
       "lastname": "Litovka",
+      "email": "vlitovka@corevalue.net",
+      "skype": "",
       "technologies": [],
       "certifications": [],
       "experience": []
@@ -51,6 +57,8 @@
       "id": 4,
       "firstname": "Vladlen",
       "lastname": "Onopko",
+      "email": "",
+      "skype": "",
       "technologies": [],
       "certifications": [],
       "experience": []
@@ -59,6 +67,8 @@
       "id": 5,
       "firstname": "Oleksandr",
       "lastname": "Vlasenko",
+      "email": "",
+      "skype": "",
       "technologies": [],
       "certifications": [],
       "experience": []
@@ -67,6 +77,8 @@
       "id": 6,
       "firstname": "Anastasiia",
       "lastname": "Vlasova",
+      "email": "",
+      "skype": "",
       "technologies": [],
       "certifications": [],
       "experience": []
